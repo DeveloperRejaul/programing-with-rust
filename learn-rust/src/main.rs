@@ -6,7 +6,12 @@
 // mod arrays;
 // mod vac;
 // mod conditionals;
-mod loops;
+// mod loops;
+// mod  function;
+// mod pointer;
+// mod  structs;
+// mod enums;
+mod cli;
 
 fn main() {
     // prints::run();
@@ -17,6 +22,10 @@ fn main() {
     // arrays::run();
     // vac::run();
     // conditionals::run();
-    loops::run();
-
+    // loops::run();
+    // function::run();
+    // pointer::run();
+    // structs::run();
+    // enums::run();
+    cli::run();
 }
